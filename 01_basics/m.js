@@ -5,4 +5,5 @@ let english= 80;
 let urdu = 75;
 
 console.table(["Physics=",physics,"Math =",math,"Computer =",computer,"English=",english,"Urdu=",urdu]);
+console.log("physics");
 
