@@ -21,5 +21,4 @@ let stringnumber = String(somenumber)
 //*****************************operation************************//
 let value =3
 let negativeval = -3
-//console.log(negativeval);
- 
+console.log(negativeval);
