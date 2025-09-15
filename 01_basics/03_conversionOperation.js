@@ -19,6 +19,14 @@ let stringnumber = String(somenumber)
 //console.log(typeof stringnumber); 
 //console.log("changes occures");
 //*****************************operation************************//
-let value =3
-let negativeval = -3
-console.log(negativeval);
+// let value =3
+//let negativeval = -3
+//console.log(2+2);
+//console.log(2*2);
+//console.log(2-2);
+//console.log(2**2);
+let num1,num2,num3;
+num1=num2=num3=4;
+let gameCounter=100;
+gameCounter++;
+console.log(gameCounter);
