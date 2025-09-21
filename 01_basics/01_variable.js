@@ -6,8 +6,8 @@ accountCity = "lalian"
 let accountstate;
 console.log(accountId);
 accountEmail = "wah@lali.com"
-accountPassword = "fsa3423"
-accountCity = "sargodha"
+accountPassword="fsa3423"
+accountCity="sargodha"
 /*
 prefer not to use var because
 of issue in block scope and function
