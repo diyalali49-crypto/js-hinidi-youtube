@@ -2,8 +2,8 @@
 //alert("hello") // we are using nodejs ,not braower
 console.log(3
     +3)//code readability look like a wow(should high)
- console.log("madiha")
-let name ="madiha"
+ console.log("diya")
+let name ="diya"
 let age = 18
 let isloggedin = false
 let state;
