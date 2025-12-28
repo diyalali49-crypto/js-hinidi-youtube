@@ -40,3 +40,21 @@ console.log(typeof myFunction);
 // 8. If val is a Boolean, return "boolean".
 // 9. If val is a Number, return "number".
 // 10. If val is a BigInt, return "bigint"
+
+
+
+// ++++++++++++++++++++++++++++++++++
+
+//stack (primitive), Heap(non primitive type)
+
+let my_channel_name= "ashoolali"
+
+let another_name = my_channel_name
+another_name = "caly art ideas"
+console.log(my_channel_name);
+console.log(another_name);
+
+let userOne ={
+    email :"user@google.com",
+    upi : "user@ybl"
+}
